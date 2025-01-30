@@ -3,4 +3,5 @@ Goodbye!
 Hello!
 Goodbye!
 You need to add your changes first before commiting them
-A remote name 
+A remote is a repository that all team members use to exchange their changes
+A branch is some part of the project, side note the first branch is by default named "master"
